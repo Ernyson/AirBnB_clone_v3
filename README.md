@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Ernest Aiji - [Github](https://github.com/Ernyson) / [Twitter](https://twitter.com/AijiErnest)  
-Boluwatife Awoyemi - [Github](https://github.com/Bowlu) / [Twitter](https://twitter.com/Bhowlu)
+Awoyemi Boluwatife - [Github](https://github.com/Bowlu) / [Twitter](https://twitter.com/Bhowlu)
 
 ## License
 Public Domain. No copy write protection. 
